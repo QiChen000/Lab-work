@@ -1,7 +1,5 @@
 ## Lab1 C++ openframeworks with sound visualization of faces 
 
-videolink: https://youtu.be/BM47S5N_wQI
-
 The young man's face is divided into three parts, hair, eyes, and mouth.
 
 The hair is drawn through a for loop with 20 diagonal lines from narrow to wide; the eyes change with the frequency of the music; the red gradient of the mouth references the ofEnableAlphaBlending function to set the transparency of the color.
